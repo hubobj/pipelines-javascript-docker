@@ -1,7 +1,4 @@
 # Docker
-- task: DockerInstaller@0
-  inputs:
-    dockerVersion: '17.09.0-ce'
 # Build and push an image to Azure Container Registry
 # https://docs.microsoft.com/azure/devops/pipelines/languages/docker
 
